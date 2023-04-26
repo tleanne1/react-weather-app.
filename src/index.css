@@ -1,0 +1,8 @@
+body {
+  background: url("https://static.vecteezy.com/system/resources/thumbnails/001/797/784/original/hills-of-dreams-background-free-video.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
