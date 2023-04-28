@@ -13,10 +13,9 @@
 
 .Weather h1 {
   color: #3c6f9c;
-  font-size: 24px;
-  font-weight: 100;
+  font-size: 30px;
+  font-weight: 600;
   margin: 20px 0 0 0;
-  line-height: 29px;
 }
 
 .Weather ul {
@@ -31,20 +30,17 @@
   list-style: none;
 }
 
-.Weather img {
-  height: 64px;
-  width: 64px;
-  display: inline-block;
-  margin-right: 10px;
-  margin-bottom: 35px;
+.Weather canvas {
+  margin-top: 5px;
+  margin-right: 5px;
 }
 
 .Weather .temperature {
-  font-weight: bold;
   color: rgb(33, 33, 33);
-  font-size: 64px;
-  line-height: 64px;
-  font-weight: 400;
+  font-size: 60px;
+  line-height: 60px;
+  vertical-align: top;
+  font-weight: 600;
 }
 
 .Weather .unit {
