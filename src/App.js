@@ -16,6 +16,14 @@ function App() {
           >
             open-sourced on GitHub
           </a>
+          and{" "}
+          <a
+            href="https://react-weather-app-tleanne.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on netlify{" "}
+          </a>
         </footer>
       </div>
     </div>
