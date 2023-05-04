@@ -8,7 +8,15 @@ function App() {
       <div className="container">
         <Weather defaultCity="New York" />
         <footer>
-          This project was coded by Tracey Buentello and is{" "}
+          This project was coded by{" "}
+          <a
+            href="https://portfolio-tleanne.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Tracey Buentello
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/tleanne1/react-weather-app."
             target="_blank"
